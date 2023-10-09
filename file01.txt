@@ -1,2 +1,5 @@
 Think we've got a few tasks - Gordon says he'll organise a meeting when he gets a chance will hopefully be tomorrow, I'll let you know
 Think we've got a few tasks - Gordon says he'll organise a meeting when he gets a chance will hopefully be tomorrow, I'll let you know
+
+[200~Up to 40% better performance; 20% lower cost
+Move your compute workloads to Graviton-based instances for better price performance compared to x86 instances. Get started. 
